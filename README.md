@@ -93,5 +93,3 @@ These might come in future versions, or you could add them yourself if you're fe
 ## About This Project
 
 This started as a learning exercise - a fun way to understand how shells work under the hood. Building your own shell teaches you about parsing, process management, I/O redirection, and terminal interaction. It's been a blast to build, and i hope you enjoy using it too!
-
--Thank you!

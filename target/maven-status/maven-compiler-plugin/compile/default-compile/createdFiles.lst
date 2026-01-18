@@ -1,7 +1,0 @@
-com\shell\JavaShell.class
-com\shell\CommandParser.class
-com\shell\RedirectionMode.class
-com\shell\CommandExecutor.class
-com\shell\ParsedCommand.class
-com\shell\RedirectionInfo.class
-com\shell\CommandHistory.class

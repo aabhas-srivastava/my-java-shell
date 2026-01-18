@@ -1,5 +1,3 @@
-package com.shell;
-
 import org.jline.reader.*;
 import org.jline.reader.impl.completer.StringsCompleter;
 import org.jline.terminal.Terminal;

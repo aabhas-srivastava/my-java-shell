@@ -1,5 +1,3 @@
-package com.shell;
-
 import org.jline.reader.impl.history.DefaultHistory;
 
 /**

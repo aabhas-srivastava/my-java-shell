@@ -1,5 +1,3 @@
-package com.shell;
-
 /**
  * Contains redirection information for stdin, stdout, and stderr
  */

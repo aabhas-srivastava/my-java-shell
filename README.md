@@ -42,7 +42,7 @@ java -jar target/java-shell-1.0-SNAPSHOT.jar
 Or if you want to compile and run in one go:
 
 ```bash
-mvn compile exec:java -Dexec.mainClass="com.shell.JavaShell"
+mvn compile exec:java -Dexec.mainClass="JavaShell"
 ```
 
 ## Using the Shell
@@ -62,7 +62,7 @@ Press `Tab` to auto-complete commands, use the `Up/Down` arrows to browse your c
 If you're curious about how it works, here's the structure:
 
 ```
-src/main/java/com/shell/
+src/
 ├── JavaShell.java          # The main brain - handles the REPL loop
 ├── CommandParser.java      # Takes your text and figures out what you mean
 ├── CommandExecutor.java    # Actually runs commands (built-in or external)

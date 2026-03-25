@@ -1,4 +1,4 @@
-# Java Shell 🐚
+# Java Shell
 
 A fun command-line shell built with Java 21 and JLine 3! Think of it as your friendly terminal companion that understands commands, runs programs, and helps you navigate your system. It's got all the essentials: built-in commands, redirection, piping, auto-completion, and command history - everything you need for a smooth command-line experience.
 
